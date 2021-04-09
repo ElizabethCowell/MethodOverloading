@@ -1,0 +1,16 @@
+C:\Users\eholy\repos\MethodOverloading\bin\Debug\net5.0\MethodOverloading.exe
+C:\Users\eholy\repos\MethodOverloading\bin\Debug\net5.0\MethodOverloading.deps.json
+C:\Users\eholy\repos\MethodOverloading\bin\Debug\net5.0\MethodOverloading.runtimeconfig.json
+C:\Users\eholy\repos\MethodOverloading\bin\Debug\net5.0\MethodOverloading.runtimeconfig.dev.json
+C:\Users\eholy\repos\MethodOverloading\bin\Debug\net5.0\MethodOverloading.dll
+C:\Users\eholy\repos\MethodOverloading\bin\Debug\net5.0\ref\MethodOverloading.dll
+C:\Users\eholy\repos\MethodOverloading\bin\Debug\net5.0\MethodOverloading.pdb
+C:\Users\eholy\repos\MethodOverloading\obj\Debug\net5.0\MethodOverloading.csprojAssemblyReference.cache
+C:\Users\eholy\repos\MethodOverloading\obj\Debug\net5.0\MethodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eholy\repos\MethodOverloading\obj\Debug\net5.0\MethodOverloading.AssemblyInfoInputs.cache
+C:\Users\eholy\repos\MethodOverloading\obj\Debug\net5.0\MethodOverloading.AssemblyInfo.cs
+C:\Users\eholy\repos\MethodOverloading\obj\Debug\net5.0\MethodOverloading.csproj.CoreCompileInputs.cache
+C:\Users\eholy\repos\MethodOverloading\obj\Debug\net5.0\MethodOverloading.dll
+C:\Users\eholy\repos\MethodOverloading\obj\Debug\net5.0\ref\MethodOverloading.dll
+C:\Users\eholy\repos\MethodOverloading\obj\Debug\net5.0\MethodOverloading.pdb
+C:\Users\eholy\repos\MethodOverloading\obj\Debug\net5.0\MethodOverloading.genruntimeconfig.cache
